@@ -1,2 +1,3 @@
 b.txt v1
 b.txt v2
+b.txt v3
